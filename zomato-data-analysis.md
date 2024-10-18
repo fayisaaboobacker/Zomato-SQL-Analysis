@@ -9,9 +9,13 @@ helping to build a strong foundation for more complex data analysis tasks in the
 Execute SQL queries to analyze the Zomato dataset.
 
 -Analyze customer behaviour
+
 -Customer preferences
+
 -Analyzing gold membership in Zomato
+
 -Customer behaviour after and before gold signup
+
 -Analyse defferent benefits for gold members
 
 **METHODOLOGY**
