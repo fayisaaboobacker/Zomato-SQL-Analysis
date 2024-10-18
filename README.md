@@ -11,15 +11,15 @@ This project analyses a fictional Zomato dataset to identify the sale trends and
  
 **BUSINESS TASK**
 
-    Analyze various metrics using SQL to derive meaningful insights. The goal is to make data driven decisions making to enhance customer satisfaction and to increase revenue.
+   Analyze various metrics using SQL to derive meaningful insights. The goal is to make data driven decisions making to enhance customer satisfaction and to increase revenue.
 
 **TOOLS**
 
-    SQL for data analysis.
+   SQL for data analysis.
 
 **DATASET**
 
-    Uses a fictional Zomato dataset created for educational purposes. The dataset includes four tables namely
+   Uses a fictional Zomato dataset created for educational purposes. The dataset includes four tables namely
 
     1.goldusers_signup
     2.product
