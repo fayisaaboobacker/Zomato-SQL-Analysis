@@ -8,7 +8,8 @@ Tables are created using SQL.
 
 INSERT INTO goldusers_signup(userid,gold_signup_date) 
  VALUES (1,'2017-09-22'),
-(3,'2017-04-21');'''
+(3,'2017-04-21');
+'''
 
 CREATE TABLE users(userid integer,signup_date date);
 
