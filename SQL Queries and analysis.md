@@ -4,4 +4,5 @@
 
   We have sales table and product table having product_id, let us join these two tables.
 
-  ![Screenshot (1)](https://github.com/user-attachments/assets/10286b20-0638-48e2-94c5-5b984b99708e)
+  
+![Screenshot (2)](https://github.com/user-attachments/assets/6df8a14f-663e-485e-8d84-5952eca3e518)
