@@ -20,3 +20,21 @@
 
 
     ![Screenshot (4)](https://github.com/user-attachments/assets/6c3127d1-d6f5-4a17-ac64-c6701c6d24f3)
+
+
+
+4. Whatis the most purchased item on the menu and how many times was it purchased by all customer?
+
+      ![Screenshot (5)](https://github.com/user-attachments/assets/3fb40f60-6528-4dfa-acfb-b842326743ed)
+
+
+   Will give the most purchased product_id
+
+
+      ![Screenshot (6)](https://github.com/user-attachments/assets/7e7e63a0-6983-45f9-8745-0098b8f615f5)
+
+
+5. Which item was the mos popular for each customer?
+
+
+    
