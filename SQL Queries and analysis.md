@@ -36,5 +36,8 @@
 
 5. Which item was the mos popular for each customer?
 
+    We want to find how many times each item is purchased
 
-    
+     
+    ![Screenshot (7)](https://github.com/user-attachments/assets/06d6e43d-8427-4db4-ab94-49e0f03a0817)
+
