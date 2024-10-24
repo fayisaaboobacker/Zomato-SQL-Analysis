@@ -28,6 +28,7 @@
       ![Screenshot (5)](https://github.com/user-attachments/assets/3fb40f60-6528-4dfa-acfb-b842326743ed)
 
 
+
    Will give the most purchased product_id
 
 
@@ -48,3 +49,31 @@
 
 
      ![Screenshot (8)](https://github.com/user-attachments/assets/ba897832-11b5-4c5a-b80d-ebd253d63a6a)
+
+6. Which item was first purchased after became a gold member?
+
+
+   Here i use inner join as, only userid 1 and 3 are having gold membership.
+
+
+   
+   
+      ![Screenshot (9)](https://github.com/user-attachments/assets/715fcc0c-5c3c-45a8-9930-1e6ef3dbb2d8)
+
+
+     only details about userid 1 and 3 are showing. To see the purchase after gold membership
+
+   
+
+
+       ![Screenshot (11)](https://github.com/user-attachments/assets/8b6558de-cd4f-4f57-b7be-acde410f4a32)
+
+     To see the first item
+
+
+   ![Screenshot (12)](https://github.com/user-attachments/assets/aac9489a-b406-4546-bf1d-d465cce26793)
+
+
+
+     
+   
