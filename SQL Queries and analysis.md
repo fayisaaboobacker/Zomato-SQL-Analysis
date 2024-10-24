@@ -41,3 +41,10 @@
      
     ![Screenshot (7)](https://github.com/user-attachments/assets/06d6e43d-8427-4db4-ab94-49e0f03a0817)
 
+
+
+
+    Use rank function
+
+
+     ![Screenshot (8)](https://github.com/user-attachments/assets/ba897832-11b5-4c5a-b80d-ebd253d63a6a)
