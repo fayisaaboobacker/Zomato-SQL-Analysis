@@ -1,8 +1,8 @@
-#SQL Queries#
+# SQL Queries #
 
 
 
-##1. What is the total amount each customer spent on zomato?##
+## 1. What is the total amount each customer spent on zomato? ##
 
   
    We have sales table and product table having product_id, let us join these two tables.
