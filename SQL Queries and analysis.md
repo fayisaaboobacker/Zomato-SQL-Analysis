@@ -38,7 +38,7 @@
 
 
 
-      Will give the most purchased product_id
+   Will give the most purchased product_id
 
 
  ![Screenshot (6)](https://github.com/user-attachments/assets/7e7e63a0-6983-45f9-8745-0098b8f615f5)
@@ -48,7 +48,7 @@
 
        
         
-        We want to find how many times each item is purchased
+   We want to find how many times each item is purchased
 
      
  ![Screenshot (7)](https://github.com/user-attachments/assets/06d6e43d-8427-4db4-ab94-49e0f03a0817)
@@ -56,7 +56,7 @@
 
 
 
-       Use rank function
+ Use rank function
 
 
  ![Screenshot (8)](https://github.com/user-attachments/assets/ba897832-11b5-4c5a-b80d-ebd253d63a6a)
@@ -69,7 +69,7 @@
 
 
        
-       Here i use inner join as, only userid 1 and 3 are having gold membership.
+ Here i use inner join as, only userid 1 and 3 are having gold membership.
 
 
    
@@ -77,7 +77,7 @@
    ![Screenshot (9)](https://github.com/user-attachments/assets/715fcc0c-5c3c-45a8-9930-1e6ef3dbb2d8)
 
 
-        only details about userid 1 and 3 are showing. To see the purchase after gold membership
+only details about userid 1 and 3 are showing. To see the purchase after gold membership
 
    
 
@@ -85,7 +85,7 @@
    ![Screenshot (11)](https://github.com/user-attachments/assets/8b6558de-cd4f-4f57-b7be-acde410f4a32)
 
    
-     To see the first item
+To see the first item
 
 
    ![Screenshot (12)](https://github.com/user-attachments/assets/aac9489a-b406-4546-bf1d-d465cce26793)
