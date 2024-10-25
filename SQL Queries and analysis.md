@@ -32,7 +32,7 @@
 
  
    
-   ## 4. Whatis the most purchased item on the menu and how many times was it purchased by all customer?
+   ## 4. Whatis the most purchased item on the menu and how many times was it purchased by all customer? ##
 
    ![Screenshot (5)](https://github.com/user-attachments/assets/3fb40f60-6528-4dfa-acfb-b842326743ed)
 
@@ -69,7 +69,7 @@
 
 
        
- ### Here i use inner join as, only userid 1 and 3 are having gold membership.### 
+ ### Here i use inner join as, only userid 1 and 3 are having gold membership. ### 
 
 
    
