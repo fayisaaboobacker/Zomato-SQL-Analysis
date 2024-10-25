@@ -43,4 +43,33 @@ screenshot
 ## 9.If buying each product generates points for eg 5rs=2 Zomato point and each product has different purchasing points for eg p1 5rs=1 zomato point for p2 10rs=5 zomato point and p3 5rs=1 zomato point. ##
 ## calculate points collected by each customer and for which product most points have been given till now? ##
 
+### We need product_id and price so inner join sales table and product table ###
 
+![Screenshot (20)](https://github.com/user-attachments/assets/1ccb9593-58a2-4b84-a4e8-b60349fd2589) 
+
+### we will get amount spent for each of the product by each customer ###
+
+### we want total amount spent by each customer for each customer purchased, we use subquery ###
+
+
+
+![Screenshot (21)](https://github.com/user-attachments/assets/1d2c9cee-452f-4b7b-9dab-80d93abe5284) 
+
+### use this to calculate points earned ###
+### use subquery and case statement ###
+
+   ### p1 5rs=1 ###
+   ### p2 2rs=1 ###
+   ### p3 5rs=1 ###
+
+   
+![Screenshot (22)](https://github.com/user-attachments/assets/b8300eb5-1715-4fe7-9ceb-b39a2468c61d)
+
+### we need to find the total points ###
+
+![Screenshot (23)](https://github.com/user-attachments/assets/1de2c158-86fe-47b4-a7d9-2d060a6c638b) 
+
+### calculate total points collected by each customer, use sum function ###
+
+
+![Screenshot (24)](https://github.com/user-attachments/assets/1426a11b-bbae-47cd-8c3b-21098488a586)
