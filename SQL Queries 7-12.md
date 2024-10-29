@@ -98,7 +98,7 @@ screenshot
 ![Screenshot (28)](https://github.com/user-attachments/assets/0e9663d5-e265-46db-8873-fb3ce0e1ed65) 
 
 
-## In the first one year, after a customer joins the gold program (including their join date) irrespective of what the customer has purchased they earn 5 zomato points for every 10rs spent. who earned 1 or 3, and what was their points earning in their first year? ##
+## 10. In the first one year, after a customer joins the gold program (including their join date) irrespective of what the customer has purchased they earn 5 zomato points for every 10rs spent. who earned 1 or 3, and what was their points earning in their first year? ##
 
 ### use inner join as 1 and 3 only have gold membership ###
 
@@ -113,6 +113,39 @@ screenshot
 ### 0.5zp = 1rs ###
 
 ![Screenshot (31)](https://github.com/user-attachments/assets/8f4ccf5a-2484-428f-af8f-6beb62944ff4)
+
+
+## 11. Rank all the transactions of the customer ##
+
+![Screenshot (34)](https://github.com/user-attachments/assets/7a7cf2af-f201-4cb7-933e-7dcda58704af) 
+
+
+## 12. Rank all the transactions for each member when ever they are zomato gold member for every non gold member transaction mark as na ##
+
+### we want to use left join as we want each customer ###
+
+![Screenshot (35)](https://github.com/user-attachments/assets/9f786cd4-571e-4f95-acd4-de3408ad87f0) 
+
+### we got null for each non member ###
+
+### use rank function ###
+
+![Screenshot (36)](https://github.com/user-attachments/assets/34e926a8-407a-4ac2-9a18-79b1003ebb17) 
+
+### but we need all non members transactions rank as 'na', use case statement ###
+
+![Screenshot (37)](https://github.com/user-attachments/assets/389e5bc2-834b-49b0-9c7f-19aadb25789f) 
+
+### when we use 'na' its not working, this is because we cant accomodate two datatypes in one column. here we already have intiger. ###
+
+### convert the colmn to varchar datatype using cast function then its possible. ###
+
+
+
+
+
+
+
 
 
 
