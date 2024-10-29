@@ -72,4 +72,52 @@ screenshot
 ### calculate total points collected by each customer, use sum function ###
 
 
-![Screenshot (24)](https://github.com/user-attachments/assets/1426a11b-bbae-47cd-8c3b-21098488a586)
+![Screenshot (24)](https://github.com/user-attachments/assets/1426a11b-bbae-47cd-8c3b-21098488a586) 
+
+
+### calculate total money earned, where 1zp=2.5rs. ###
+
+
+![Screenshot (25)](https://github.com/user-attachments/assets/bc86950e-e058-4604-a787-7137288eddec) 
+
+
+### which product most points have been given till now ###
+
+
+![Screenshot (26)](https://github.com/user-attachments/assets/25cc2492-fa25-425c-9ee5-ee739a8ef4eb) 
+
+
+### use rank function ###
+
+
+![Screenshot (27)](https://github.com/user-attachments/assets/b09c9730-9d0d-4d08-8dd3-847608fe5711) 
+
+### to get the most point earned product ###
+
+
+![Screenshot (28)](https://github.com/user-attachments/assets/0e9663d5-e265-46db-8873-fb3ce0e1ed65) 
+
+
+## In the first one year, after a customer joins the gold program (including their join date) irrespective of what the customer has purchased they earn 5 zomato points for every 10rs spent. who earned 1 or 3, and what was their points earning in their first year? ##
+
+### use inner join as 1 and 3 only have gold membership ###
+
+![Screenshot (29)](https://github.com/user-attachments/assets/1a98e7ca-e393-4fda-8899-6dbb1d3c34c0) 
+
+### to add date , use date_add function ###
+
+![Screenshot (30)](https://github.com/user-attachments/assets/b37f18fe-5c33-4603-ad87-bcd9005ae77b) 
+
+### 1zp = 2rs ###
+
+### 0.5zp = 1rs ###
+
+![Screenshot (31)](https://github.com/user-attachments/assets/8f4ccf5a-2484-428f-af8f-6beb62944ff4)
+
+
+
+   
+
+
+
+
